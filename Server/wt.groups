@@ -1,0 +1,11 @@
+[groups]
+index=100;101;
+
+
+[100]
+name=ÁÄÌìÊÒ
+members=admin;1001;1002;
+
+[101]
+name=Ğ¼ÕÛÖ½¤ÎÈº
+members=admin;1001;1002;
