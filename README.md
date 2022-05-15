@@ -3,4 +3,4 @@
 
 # intro about WT-Plugin
 You can make it by PDK.
-The place is in "Plugin Development Kits(PDK)" folder
+It's in "Plugin Development Kits(PDK)" folder.
