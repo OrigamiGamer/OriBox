@@ -1,5 +1,5 @@
 # WindTalk
-- A box can do most things by making plugins.
+- A box can do many interesting things by making plugins.
 
 # WT-Plugin
 You can make plugins for WindTalk by "PDK.ec".
