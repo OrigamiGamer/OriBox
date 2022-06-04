@@ -1,6 +1,0 @@
-[Requests of the local to Client]
-	Json Object Form:
-	
-		"target":"client"or"server"		//目标
-		"local_mode":"<action mode>"	//模式
-		
