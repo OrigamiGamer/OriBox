@@ -1,4 +1,6 @@
-WindTalk浏览页y对应值
-page:1 - y:32
-page:2 - y:-568
-page:3 - y:-1168
+WindTalk页码对应y
+	page:	y:
+	0	->	32
+	1 	-> 	-568
+	2 	-> 	-1168
+	3 	-> 	-1768
