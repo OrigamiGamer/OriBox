@@ -1,0 +1,15 @@
+{
+    "program": {
+        "main": "0.7.22"
+    },
+    "plugin": {
+        "Chat": {
+            "state": "official",
+            "version": "1.0"
+        },
+        "PluginDemo": {
+            "state": "official",
+            "version": "1.0"
+        }
+    }
+}
