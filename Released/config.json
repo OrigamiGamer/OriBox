@@ -1,6 +1,6 @@
 {
     "program": {
-        "main": "0.7.21"
+        "main": "0.7.22"
     },
     "plugin": {
         "Chat": {
