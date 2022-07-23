@@ -1,4 +1,7 @@
 {
+    "update":{
+        "update":"0.1"
+    },
     "program": {
         "main": "0.7.22"
     },
