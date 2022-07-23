@@ -8,11 +8,11 @@
     "plugin": {
         "Chat": {
             "state": "official",
-            "version": "1.1"
+            "version": "0.1"
         },
         "PluginDemo": {
             "state": "private",
-            "version": "1.0"
+            "version": "0.0"
         }
     }
 }
