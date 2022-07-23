@@ -3,7 +3,7 @@
         "update":"0.1"
     },
     "program": {
-        "main": "0.7.22"
+        "main": "0.7.23"
     },
     "plugin": {
         "Chat": {
