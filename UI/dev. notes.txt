@@ -1,6 +1,21 @@
-WindTalk页码对应y
+相应页码的组件坐标y
 	page:	y:
 	0	->	32
 	1 	-> 	-568
 	2 	-> 	-1168
 	3 	-> 	-1768
+
+
+Package{	// 数据包
+	
+	head{	// 数据头
+		json	// 用来描述数据包信息
+	},
+	
+	data{	// 数据尾
+		may_be:
+			* document_text
+			* document_json
+			* file_bin
+	}
+}
